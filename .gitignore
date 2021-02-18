@@ -1,5 +1,5 @@
 # terraform state files
-*.tfstate
+*.tfstate*
 
 # .terraform (plugins)
 .terraform/
