@@ -3,3 +3,6 @@
 
 # .terraform (plugins)
 .terraform/
+
+# lock files
+*.lock.hcl
