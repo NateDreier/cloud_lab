@@ -8,6 +8,14 @@ Below is the architecture diagram for the Cloud lab.
 
 ![my pic](https://github.com/NateDreier/cloud_lab/blob/main/cloud_lab_architecture-0216.PNG)
 
+### Seperate env
+
+It would be better to separate dev/test/stage/prod via AWS accounts and not have them all existing in the same VPC.
+
+### Auto-scaling groups
+
+
+
 ## IaC
 
 You will typically find the below files in each directory below:
